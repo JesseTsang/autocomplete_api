@@ -1,6 +1,6 @@
 ## Introduction
 
-- This is a delierable for the Airgraft coding challenge. Details of the challenge please see the PDF file.
+- This is a deliverable for the Airgraft coding challenge. Details of the challenge please see the PDF file.
 
 ## About the API Algorithm
 
