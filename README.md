@@ -1,3 +1,7 @@
+## Introduction
+
+- This is a delierable for the Airgraft coding challenge. Details of the challenge please see the PDF file.
+
 ## About the API Algorithm
 
 1. It will first find all the cities that contain the search string from the file (cities15000.txt in this example). 
