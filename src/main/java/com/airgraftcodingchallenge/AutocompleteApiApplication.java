@@ -1,4 +1,4 @@
-package com.airgraftcodingchallenge.autocomplete_api;
+package com.airgraftcodingchallenge;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
